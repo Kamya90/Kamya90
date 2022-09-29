@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamya 
-- 👀 I’m interested in Data Analysis & Machine Learning.
-- 🌱 I’m currently researching on NFTs,web3 & Metaverse.
+- 👀 I’m interested in Artificial Intelligence & Machine Learning.
+- 🌱 I’m currently in the process of breaking into Web3.
 - 💞️ I’m looking to collaborate on any project or idea that could possibly enhance my knowledge in a given domain or maybe educate me about something absolutely new.
 - 📫 How to reach me E-mail:darkethdust@gmail.com
                      Twitter:@eth_dusk
