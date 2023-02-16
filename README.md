@@ -3,8 +3,8 @@
 - 🌱 I’m currently in the process of breaking into Web3.
 - 💞️ I’m looking to collaborate on any project or idea that could possibly enhance my knowledge in a given domain or maybe educate me about something absolutely new.
 - 📫 How to reach me E-mail:darkethdust@gmail.com
-                     Twitter:@eth_dusk
-
+                     Twitter:@develop_dust
+                     
 [![@dark's Holopin board](https://holopin.io/api/user/board?user=dark)](https://holopin.io/@dark)
 <!---
 Kamya90/Kamya90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
