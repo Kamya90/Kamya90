@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamya 
-- 👀 I’m interested in Web3 & Artificial Intelligence.
+- 👀 I’m interested in Web3 & GenAI.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any project or idea that could possibly enhance my knowledge in a given domain or maybe educate me about something absolutely new.
 - 📫 How to reach me e-mail:darkethdust@gmail.com
